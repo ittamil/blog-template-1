@@ -1,0 +1,126 @@
+@import url("https://use.typekit.net/bza3vcv.css");
+* {
+    font-family: "proxima-nova";
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.bg-black {
+    background-color: black;
+    color: white;
+}
+
+.social-icon {
+    color: white;
+    font-size: 26px;
+    padding-left: 10px;
+}
+
+.text-black {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.o-nav-button {
+    background-color: white;
+    color: black !important;
+    border-radius: 2px;
+}
+
+.tag-success {
+    background-color: #2efd2e;
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.btn-green {
+    background-color: #2efd2e;
+    border: 1px solid #2efd2e;
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding: 8px;
+}
+
+.btn-green:hover {
+    color: #2efd2e;
+    border: 1px solid #2efd2e;
+    background-color: black;
+    font-size: 13px;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding: 8px;
+    text-decoration: none;
+}
+
+
+.btn-black {
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding: 8px;
+}
+
+.btn-black:hover {
+    color: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding: 8px;
+    text-decoration: none;
+}
+.website-title, .website-title:hover {
+    color: #2efd2e;
+}
+
+.o-icon {
+    font-size: 20px;
+}
+
+img {
+    object-fit: cover;
+    height: auto
+}
+
+.content {
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+.head-text {
+    font-size: 50px;
+}
+
+.head-title {
+    color: #2efd2e;
+    font-size: 50px;
+}
+
+.head-text .wave {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -10;
+}
